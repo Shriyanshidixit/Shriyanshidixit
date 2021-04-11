@@ -1,21 +1,19 @@
 
 
-<!--
-**Shriyanshidixit/Shriyanshidixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Hello](Hello.gif) ### Shriyanshi Dixit 👋
+![Hello](Hello.gif) Shriyanshi Dixit 👋
 
 
 ## I'm a Sophomore!
 
 - 🔭 I'm currently exploring Blockchain, Full-stack Web Development, and Data Science.
 - 🌱 Sharing ideas and knowledge with one another is the ultimate mantra for growth.
-- 👯 I’m looking to collaborate with others having same interest as of mine.
+- 👯 I’m looking to collaborate with enthusiastic and like-minded people!
 - 🥅 2021 Goals: Contribute more to Open Source projects and help my peers.
 - ⚡ Fun fact: I love to dance and sing.
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Shriyanshi Spotify Playing" width="350" />](https://open.spotify.com/user/	ey42jluqrpa05cdfn04lu4pbf)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Shriyanshi Spotify Playing" width="350" />](https://open.spotify.com/user/ey42jluqrpa05cdfn04lu4pbf)
 
 ### Connect with me:
 
